@@ -1,0 +1,11 @@
+C:\Users\s.bakunowicz\Documents\STUDIA\rsi\dotnetWebServices\WebServicesJavaConsoleApp\WebServicesJavaConsoleApp\bin\Debug\netcoreapp2.2\WebServicesJavaConsoleApp.deps.json
+C:\Users\s.bakunowicz\Documents\STUDIA\rsi\dotnetWebServices\WebServicesJavaConsoleApp\WebServicesJavaConsoleApp\bin\Debug\netcoreapp2.2\WebServicesJavaConsoleApp.runtimeconfig.json
+C:\Users\s.bakunowicz\Documents\STUDIA\rsi\dotnetWebServices\WebServicesJavaConsoleApp\WebServicesJavaConsoleApp\bin\Debug\netcoreapp2.2\WebServicesJavaConsoleApp.runtimeconfig.dev.json
+C:\Users\s.bakunowicz\Documents\STUDIA\rsi\dotnetWebServices\WebServicesJavaConsoleApp\WebServicesJavaConsoleApp\bin\Debug\netcoreapp2.2\WebServicesJavaConsoleApp.dll
+C:\Users\s.bakunowicz\Documents\STUDIA\rsi\dotnetWebServices\WebServicesJavaConsoleApp\WebServicesJavaConsoleApp\obj\Debug\netcoreapp2.2\WebServicesJavaConsoleApp.csprojAssemblyReference.cache
+C:\Users\s.bakunowicz\Documents\STUDIA\rsi\dotnetWebServices\WebServicesJavaConsoleApp\WebServicesJavaConsoleApp\obj\Debug\netcoreapp2.2\WebServicesJavaConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\s.bakunowicz\Documents\STUDIA\rsi\dotnetWebServices\WebServicesJavaConsoleApp\WebServicesJavaConsoleApp\obj\Debug\netcoreapp2.2\WebServicesJavaConsoleApp.AssemblyInfoInputs.cache
+C:\Users\s.bakunowicz\Documents\STUDIA\rsi\dotnetWebServices\WebServicesJavaConsoleApp\WebServicesJavaConsoleApp\obj\Debug\netcoreapp2.2\WebServicesJavaConsoleApp.AssemblyInfo.cs
+C:\Users\s.bakunowicz\Documents\STUDIA\rsi\dotnetWebServices\WebServicesJavaConsoleApp\WebServicesJavaConsoleApp\bin\Debug\netcoreapp2.2\WebServicesJavaConsoleApp.pdb
+C:\Users\s.bakunowicz\Documents\STUDIA\rsi\dotnetWebServices\WebServicesJavaConsoleApp\WebServicesJavaConsoleApp\obj\Debug\netcoreapp2.2\WebServicesJavaConsoleApp.dll
+C:\Users\s.bakunowicz\Documents\STUDIA\rsi\dotnetWebServices\WebServicesJavaConsoleApp\WebServicesJavaConsoleApp\obj\Debug\netcoreapp2.2\WebServicesJavaConsoleApp.pdb
